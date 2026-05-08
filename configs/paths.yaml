@@ -1,0 +1,6 @@
+drive_root: /content/drive/MyDrive/term_work
+raw_datasets: /content/drive/MyDrive/term_work/combined_dataset
+random_dataset_zip: /content/drive/MyDrive/term_work/random/random_dataset.v1i.yolov8.zip
+processed_root: /content/data/combined_clean_bbox
+outputs_root: /content/drive/MyDrive/term_work/outputs
+weights_root: /content/drive/MyDrive/term_work/weights

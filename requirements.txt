@@ -1,0 +1,13 @@
+ultralytics
+torch
+opencv-python
+albumentations
+matplotlib
+tqdm
+iterative-stratification
+pyyaml
+pandas
+onnxruntime
+openvino
+openvino-dev
+nncf

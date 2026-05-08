@@ -1,0 +1,5 @@
+min_images_per_class: 250
+horizontal_flip_p: 0.5
+brightness_contrast_p: 0.3
+gamma_p: 0.3
+noise_p: 0.2
